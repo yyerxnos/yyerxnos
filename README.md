@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Backend Devoleper
 
-#### Saya Hanya seorang manusia yang suka coding
+#### Saya Hanya seorang manusia yang suka coding well
+
